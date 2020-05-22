@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "modern-resume-theme"
+
 gem "github-pages", group: :jekyll_plugins
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

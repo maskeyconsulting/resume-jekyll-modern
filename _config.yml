@@ -14,7 +14,7 @@ github_username:  maskeyconsulting
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-#linkedin_username: jameswgrant
+linkedin_username: abhaya-maskey-00a9b7a
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -23,32 +23,40 @@ github_username:  maskeyconsulting
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Abhaya and I'm a .Net Software Consultant. 
+ Hi, my name is  Abhaya and I'm a dot Net Software Consultant with 12+ years of experience in designing, developing, and implementing solutions using various software paradigms with focus on simple solutions to complex problems.
+ I have good understanding of many programming languages along with Object Oriented Design concepts (Solid), Domain Driven Design, CQRS/ES/Microservices, SOA, MVC, Design Patterns and Clean Code practices.
+ I also have expertise in all stages of SDLC including Requirements gathering, Documentation, Implementation, Unit testing, System/Integration testing, and Deployment.
+ I am experienced in UI technologies and web UI frameworks like Knockout.JS, AngularJS and Angular.
+ I have strong knowledge and understanding of AGILE methodologies with experience using TDD/BDD practices in Kanban and Scrum environments.
 
-  I am most skilled in: <mark>.Net</mark>
+ I am most skilled in: <mark>ASP.Net and C#</mark>
 
 # Projects Section
 # projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
+#Experience Section
+experience_title: Experience
 
-# Education Section
-# educaton_title: Education
+#Education Section
+educaton_title: Education
+
+technical_title: Technical Expertise
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  # # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   # # - Rock climbing
-   # # - Gaming
-   # # - Knitting
-   # # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # # Alongside my interests in Software Engineering I love  about:
+   - Data Science / AI / Machine Learning
+   - Quantum Computing
+   - Zen Buddhism
+   - Books
+   - Watching movies
 
 # Footer
 footer_show_references: true
 
 # Build settings
+#theme: modern-resume-theme
 remote_theme: sproogen/resume-theme
 
 sass:

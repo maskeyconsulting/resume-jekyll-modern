@@ -1,9 +1,62 @@
-# - layout: left
-  # company: The Boring Company
-  # link: boringcompany.com
-  # job_title: Senior Network System Administrator
-  # dates: November 2017 - Present
-  # quote: >
-   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  # description: | # this will include new lines to allow paragraphs
-    # Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+- company: Thomson Reuters/ Refinitiv
+  job_title: Software Consultant
+  dates: March 2019 - April 2020
+  description: | # this will include new lines to allow paragraphs
+   
+   Front End Developer consultant for DataScope Select (DSS) product which is a hosted data extraction platform that provides access to global end-of-day pricing, validated terms and conditions, historical data content and cross-reference data for a wide range of instruments, including equities, funds, derivatives, money/foreign exchange, warrants, and fixed income securities.
+   
+   <ul>
+   <li>Enhanced, supported, and maintained DSS product (GUI/Restapi/Service layer/Soap) as per product teams’ requests</li>
+   <li>Fixed muted/flaky unit and integration tests in TeamCity</li>
+   <li>Decommissioned multiple services from Rest API, Web UI and Soap service</li>
+   <li>Enhanced the Search service by updating Elastic Search and Lucene Indexes</li>
+   <li>Used LiquiBase to update the database to aid on the database deployment process</li>
+   <li>Updated Protobuf for message sharing with the backend C++ services</li>
+   <li>Enhanced RestApi throttling on Search Services to avoid frequent server crashes</li>
+   <li>Analyze and improve SQL query performance by troubleshooting and fixing queries causing high CPU usage</li>
+   </ul>
+   
+   <u>Environment</u> 
+   
+   ASP.Net, .Net Core, Mercurial, Knockuot.js, Elastic Search (Nest), Kibana, Lucene, T4/templates, Code Generation, Sybase, RestApi, OData, Protobuf, Active MQueue, JIRA, Liquibase, AWS S3, FTP, Splunk, Nunit, RhinoMocks, Team City, Domain Driven Design, SOAP, Cloudberry
+
+- company: Wells Fargo, Minneapolis, MN
+  job_title: Lead Software Engineer
+  dates: Jun 2018 – Dec 2018/ March 2017– Oct 2017
+  description: | # this will include new lines to allow paragraphs
+   Enterprise Information Technology supports EAM strategies across the Wells Fargo Enterprise software platforms, along with other vertical initiatives as Secure Code and Vulnerabilities, Living Will and Recovery, Resolution Planning and SACM
+   
+   <ul>
+   <li>Led the efforts of migration of multiple applications to Azure PaaS environment</li>
+   <li>Led the initiative to put in place functionality that allows for Application capability analysis, Vendor Product rationalization, Software health, Living Target Architecture road map using Alfabet 9.12</li>
+   <li>Stabilized and standardized the SDLC processes such as unit testing and code reviews across multiple applications </li>
+   <li>Collaborated with developers and architects to create and review technical design documentations</li>
+   <li>Worked with scrum masters, product owners, and management to maintain a more manageable backlog</li>
+   <li>Used tools like BlackDuck and HP Fortify to maintain quality of source code that meet the OWSAP recommendations</li>
+   <li>Reviewed stories to put them in proper “Given-When-Then” BDD format </li>
+   <li>Initiated proper support mechanism for applications migrating to lower RTO/RPO level</li>
+   <li>Created technical design documents, high level designs and architecture diagrams</li>
+   </ul>
+   
+   <u>Environment</u> 
+   
+   ASP.Net, .Net Core, TFS, AngularJS, Angular, Javascript, LINQ, CSS, Less, AJAX, JQuery, JSON, SQL Server 2014, Stored Procedure, T-SQL, SSRS, IIS, Windows 2012, Autosys, NDM, Telerik, Bootstrap, SSIS, Jira, BDNA, Remedy, Teradata, HP Fortify, Entity Framework, OWSAP, Azure PaaS, Artifactory, App Dynamics, Dynatrace, BlackDuck, Software AG Alfabet 9.12, Javascript
+
+- company: State of MN, St. Paul, MN
+  job_title: Senior .Net Consultant
+  dates: Oct 2017 – Jun 2018
+  description: | # this will include new lines to allow paragraphs
+   Depart of Public Safety (DPS) maintains the systems for Driver’s License, Driver Identity, Compliance, Vehicle Title, Vehicle Registration, Dealer Licensing, Plate Inventory for the State Of MN. 
+  
+   <ul>
+   <li>Aided in the efforts to migrate Driver Vehicle Services from mainframe to CQRS/.Net/WebApi/Angular/AWS environment</li>
+   <li>Led the efforts for the stabilization of plates and sticker issues in the vehicle registration domain that included issues such as multiple plates issuances, plates being issued when not requested, extra plate charges for sticker renewals, etc.</li>
+   <li>Created and maintained multiple CQRS/ES based API endpoints </li>
+   <li>Created and maintained multiple UI solutions based on Angular, AngularJS </li>
+   <li>Created ReadyRoll scripts for database changes</li>
+   <li>Conducted and requested for code reviews using TFS</li>
+   </ul>
+   
+   <u>Environment</u> 
+   
+   .Net, WebApi, Angular, AngularJS, NPM, Gulp, Ninject, Entity Framework, TFS, SAFE Agile, Less, Jasmine, Protractor, TDD, SQL Server, Rally, AWS, App Dynamics, Splunk, Stackify, JSON, JWT, Visual Studio, Solid principles, CQRS, ReadyRoll, SSRS
